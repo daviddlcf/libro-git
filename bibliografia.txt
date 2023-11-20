@@ -1,0 +1,3 @@
+Chacon, S. and Straub, B. Pro Git. Apress.
+Lorliger, J. and McCullough, M. Version control with Hit. O'Reilly.
+ 
